@@ -2,8 +2,8 @@ This project was an implementation of a slightly modified VGG16 in order to clas
 the dataset used is https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 
 
-
-to run the code, make sure you have a kaggle api token named "kaggle.json"
+VGG16 Model
+to run the VGG16 code, make sure you have a kaggle api token named "kaggle.json"
 
 to download your kaggle api token, make sure you have a kaggle account first
 
